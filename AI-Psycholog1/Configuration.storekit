@@ -1,0 +1,140 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "4D2E8F8B",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "199.00",
+      "familyShareable" : false,
+      "internalID" : "1001",
+      "localizations" : [
+        {
+          "description" : "Стартовый пакет сессий для знакомства с AI-психологом",
+          "displayName" : "5 сессий",
+          "locale" : "ru"
+        },
+        {
+          "description" : "Starter pack of AI psychology sessions",
+          "displayName" : "5 Sessions",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.yourapp.sessions.5pack",
+      "referenceName" : "5 Sessions Pack",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "299.00",
+      "familyShareable" : false,
+      "internalID" : "1002",
+      "localizations" : [
+        {
+          "description" : "Популярный пакет сессий с лучшим соотношением цена-качество",
+          "displayName" : "7 сессий",
+          "locale" : "ru"
+        },
+        {
+          "description" : "Popular pack with best value for money",
+          "displayName" : "7 Sessions",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.yourapp.sessions.7pack",
+      "referenceName" : "7 Sessions Pack",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "399.00",
+      "familyShareable" : false,
+      "internalID" : "1003",
+      "localizations" : [
+        {
+          "description" : "Максимальный пакет сессий для длительной работы",
+          "displayName" : "10 сессий",
+          "locale" : "ru"
+        },
+        {
+          "description" : "Maximum pack for extended therapy sessions",
+          "displayName" : "10 Sessions",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.yourapp.sessions.10pack",
+      "referenceName" : "10 Sessions Pack",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "12345678",
+    "_developerTeamID" : "UB9B93C35C",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 748886523.99140096,
+    "_locale" : "en_US",
+    "_storefront" : "RUS",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}
